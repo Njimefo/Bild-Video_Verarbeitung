@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LaborCameraCalibration", "LaborCameraCalibrationVirtualPerspective\LaborCameraCalibrationVirtualPerspective.vcxproj", "{3C6D4A68-16FB-434D-B52F-9BA09D8A43CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VirtualPerspective", "VirtualPerspective\VirtualPerspective.vcxproj", "{6F452155-9D39-472E-BF9B-B70CB214E436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C6D4A68-16FB-434D-B52F-9BA09D8A43CD}.Debug|x64.ActiveCfg = Debug|x64
+		{3C6D4A68-16FB-434D-B52F-9BA09D8A43CD}.Debug|x64.Build.0 = Debug|x64
+		{3C6D4A68-16FB-434D-B52F-9BA09D8A43CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C6D4A68-16FB-434D-B52F-9BA09D8A43CD}.Debug|x86.Build.0 = Debug|Win32
+		{3C6D4A68-16FB-434D-B52F-9BA09D8A43CD}.Release|x64.ActiveCfg = Release|x64
+		{3C6D4A68-16FB-434D-B52F-9BA09D8A43CD}.Release|x64.Build.0 = Release|x64
+		{3C6D4A68-16FB-434D-B52F-9BA09D8A43CD}.Release|x86.ActiveCfg = Release|Win32
+		{3C6D4A68-16FB-434D-B52F-9BA09D8A43CD}.Release|x86.Build.0 = Release|Win32
+		{6F452155-9D39-472E-BF9B-B70CB214E436}.Debug|x64.ActiveCfg = Debug|x64
+		{6F452155-9D39-472E-BF9B-B70CB214E436}.Debug|x64.Build.0 = Debug|x64
+		{6F452155-9D39-472E-BF9B-B70CB214E436}.Debug|x86.ActiveCfg = Debug|Win32
+		{6F452155-9D39-472E-BF9B-B70CB214E436}.Debug|x86.Build.0 = Debug|Win32
+		{6F452155-9D39-472E-BF9B-B70CB214E436}.Release|x64.ActiveCfg = Release|x64
+		{6F452155-9D39-472E-BF9B-B70CB214E436}.Release|x64.Build.0 = Release|x64
+		{6F452155-9D39-472E-BF9B-B70CB214E436}.Release|x86.ActiveCfg = Release|Win32
+		{6F452155-9D39-472E-BF9B-B70CB214E436}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EF474D6-CFEB-4AA8-BBA4-095B6A0CEEE9}
+	EndGlobalSection
+EndGlobal
